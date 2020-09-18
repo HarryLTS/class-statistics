@@ -1,0 +1,49 @@
+header {
+  background-color: #9825EA;
+  color: #e4e8f0;
+}
+
+
+h1 {
+}
+
+h2 {
+
+}
+
+p {
+
+}
+
+
+.heading-primary {
+
+}
+
+.heading-secondary {
+  padding-top: 30px;
+}
+.heading-get-started {
+  padding-top: 40px;
+}
+
+.learn-more-link {
+  color: #d59df2;
+}
+
+.transition-icon {
+  margin-top: 10px;
+}
+
+
+.content-wrapper {
+  width: 85%;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header-wrapper {
+  padding-top: 60px;
+  padding-bottom: 55px;
+}

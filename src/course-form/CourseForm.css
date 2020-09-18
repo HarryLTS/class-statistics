@@ -1,0 +1,75 @@
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+.MuiTextField-root {
+  margin-top: 10px !important;
+}
+
+.MuiFormControl-marginNormal {
+  margin-bottom: 0px !important;
+}
+
+.course-question {
+  float: left;
+  padding-top: 30px;
+}
+
+.adv-options-button {
+
+}
+
+.submit-button-wrapper {
+    padding-top: 35px;
+}
+
+.course-form-wrapper {
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 80%;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 55px;
+}
+
+.flexbox-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.flexbox-wrapper-adjust {
+  padding-top: 0;
+}
+
+.adv-options-wrapper {
+  text-align: right;
+  padding-top: 20px;
+  margin-left: 40px;
+}
+
+.grade-field-wrapper {
+  text-align: left;
+  width: 40%;
+}
+
+.number-field {
+  padding-top: 20px;
+}
+
+.MuiButton-root {
+    display: inline-block;
+    margin-left: .255em;
+    vertical-align: .255em;
+    content: "";
+    border-top: .3em solid;
+    border-right: .3em solid transparent;
+    border-bottom: 0;
+    border-left: .3em solid transparent;
+}
